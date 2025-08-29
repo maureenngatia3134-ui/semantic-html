@@ -3,7 +3,7 @@
 This repository demonstrates how to implement semantic html to improve search engines, accessibility through A11y and overall web performance.
 ## Objectives 
 Semantic html is a html element that clearly define the meaning and purpose of the content they enclose hence self explanatory.
-#Advantage of semantic html
+# Advantage of semantic html
 * Very reliable to developers:it makes code easier to read which is important in collaboration. 
 * It enhances SEO:the semantic tags help the search engines to understand your content and structure.
 * Easily accessible:Can be used by people with disabilities ensuring better experience through screen readers.

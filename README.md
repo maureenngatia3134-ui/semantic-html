@@ -77,7 +77,7 @@ Semantic html improve crawling and indexing,SEO send bots to read your page.With
 <body>
   <!-- <header> clearly defines the top section of the page -->
   <header>
-    <h1>Welcome to My Blog</h1>
+    <h1> Semantic html </h1>
   </header>
 
   <!-- <nav> explicitly tells search engines and screen readers this is site navigation -->

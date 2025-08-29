@@ -1,13 +1,13 @@
 # IMPLEMENTATION AND BENEFITS OF SEMANTIC HTML IN WEB DEVELOPMENT.
 # ABOUT
 This repository demonstrates how to implement semantic html to improve search engines, accessibility through A11y and overall web performance.
-#Objectives 
+## Objectives 
 Semantic html is a html element that clearly define the meaning and purpose of the content they enclose hence self explanatory.
 #Advantage of semantic html
-*Very reliable to developers:it makes code easier to read which is important in collaboration. 
-*It enhances SEO:the semantic tags help the search engines to understand your content and structure.
-*Easily accessible:Can be used by people with disabilities ensuring better experience through screen readers.
-##SEMANTIC HTML TAGS
+* Very reliable to developers:it makes code easier to read which is important in collaboration. 
+* It enhances SEO:the semantic tags help the search engines to understand your content and structure.
+* Easily accessible:Can be used by people with disabilities ensuring better experience through screen readers.
+## SEMANTIC HTML TAGS
 < header >:It's on top of the page.
 < nav >:Navigation links. 
 < main >:The unique content of the page and it's only used on one page only. 
@@ -17,7 +17,7 @@ Semantic html is a html element that clearly define the meaning and purpose of t
 < footer >.
 Semantic html improve crawling and indexing,SEO send bots to read your page.With semantic tags crawlers immediately knoe which paty is Navigation,which is the main part and Footer.Once crawled the search engines decides what to store in index.Using <article > and <section > gives explicit guidelines of content.
 
-#Before non-semantic html
+# Before non-semantic html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -64,7 +64,7 @@ Semantic html improve crawling and indexing,SEO send bots to read your page.With
 </body>
 </html>
 
-#After semantic html 
+# After semantic html 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -110,7 +110,7 @@ Semantic html improve crawling and indexing,SEO send bots to read your page.With
   </footer>
 </body>
 </html>
-#Testing & Validation
+# Testing & Validation
 
 SEO: Use Google Lighthouse or Google Search Console.
 
@@ -118,7 +118,7 @@ Accessibility: Test with axe-core, Lighthouse Accessibility, or screen readers (
 
 HTML Validation: Run W3C Validator.
 
-#References
+# References
 
 MDN Web Docs – HTML Elements Reference
 
@@ -126,7 +126,7 @@ W3C – Web Content Accessibility Guidelines (WCAG)
 
 Google SEO Starter Guide
 
-#Conclusion
+## Conclusion
 
 Semantic HTML makes websites easier for search engines to crawl and rank. It's 
 More accessible for assistive technologies ensuring a better experience for people with disabilities.Also it's faster and user friendly. 

@@ -1,7 +1,7 @@
 # IMPLEMENTATION AND BENEFITS OF SEMANTIC HTML IN WEB DEVELOPMENT.
-##ABOUT
+#ABOUT
 This repository demonstrates how to implement semantic html to improve search engines, accessibility through A11y and overall web performance.
-##Objectives 
+#Objectives 
 Semantic html is a html element that clearly define the meaning and purpose of the content they enclose hence self explanatory.
 #Advantage of semantic html
 *Very reliable to developers:it makes code easier to read which is important in collaboration. 

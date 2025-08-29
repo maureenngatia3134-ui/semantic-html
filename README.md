@@ -30,7 +30,7 @@ Semantic html improve crawling and indexing,SEO send bots to read your page.With
 <body>
   <!-- Header section made with a generic div instead of <header> -->
   <div id="header">
-    <h1>Welcome to My Blog</h1>
+    <h1>Non semantic html</h1>
   </div>
 
   <!-- Navigation links wrapped in a generic div, not <nav> -->

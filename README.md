@@ -15,6 +15,7 @@ Semantic html is a html element that clearly define the meaning and purpose of t
 * < section >:Thematic grouping of content with a heading. 
 * < aside >:Related content,it's on a side bar.
 * < footer >.
+
 Semantic html improve crawling and indexing,SEO send bots to read your page.With semantic tags crawlers immediately knoe which paty is Navigation,which is the main part and Footer.Once crawled the search engines decides what to store in index.Using <article > and <section > gives explicit guidelines of content.
 
 # Before non-semantic html
